@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Linearlayout_Vertical"
+    android:id="@+id/content_location" >
+    
+    <TextView
+        style="@style/TextView"
+        android:text="This is location." />
+
+</LinearLayout>
