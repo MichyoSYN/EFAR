@@ -1,4 +1,6 @@
-package com.example.efar;
+package com.mobile.efar;
+
+import com.example.efar.R;
 
 import android.annotation.SuppressLint;
 import android.app.Fragment;

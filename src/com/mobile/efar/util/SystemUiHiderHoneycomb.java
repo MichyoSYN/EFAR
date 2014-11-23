@@ -1,4 +1,4 @@
-package com.example.efar.util;
+package com.mobile.efar.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

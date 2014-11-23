@@ -1,7 +1,9 @@
-package com.example.efar;
+package com.mobile.efar;
 
 import java.io.InputStream;
 import java.util.ArrayList;
+
+import com.example.efar.R;
 
 import android.annotation.SuppressLint;
 import android.app.ListFragment;

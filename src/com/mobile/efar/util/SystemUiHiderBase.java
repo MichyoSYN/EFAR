@@ -1,4 +1,4 @@
-package com.example.efar.util;
+package com.mobile.efar.util;
 
 import android.app.Activity;
 import android.view.View;
